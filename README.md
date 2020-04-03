@@ -1,1 +1,1 @@
-# jira-sync 0.1
+# jira-sync 0.5
